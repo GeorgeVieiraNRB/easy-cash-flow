@@ -5,7 +5,12 @@
 ## Requerimentos
 ### - IDE Visual Studio Code
 ### - Node.js
+### - MySQL Workbench
 ## Uso
+#### Abrir o arquivo cash.sql com MySQL Workbench
+#### Selecionar todas as linhas com ctrl+a
+#### Executar
+#### Abrir o Visual Studio Code
 #### Abrir a pasta do projeto
 #### Usar npm i
 #### Criar dois terminais
